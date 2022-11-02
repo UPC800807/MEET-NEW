@@ -87,8 +87,10 @@ color: rgb(78, 71, 71);
 }
 
 .multiple{
-    margin-left: 15px;
+    margin-left: 15px;   
+    accent-color: rgb(80, 62, 62);
 }
+/* input 顏色屬性更換accent-color*/
 
 textarea{
     width: 450px;
