@@ -68,7 +68,22 @@
     font-weight: lighter;
 }
 
+.ul1>li>a{
+    text-decoration:none; 
+    color: #9E8686;
+}
+
 /* --------ul1----------- */
+.ul2 P{
+    margin-left: 430px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.ul2>li>a{
+    text-decoration:none; 
+    color: #9E8686;
+}
 
 .ul2{
     display: flex;
@@ -101,6 +116,16 @@
 }
 
 /* --------ul2--------- */
+.ul3 P{
+    margin-left: 430px;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.ul3>li>a{
+    text-decoration:none; 
+    color: #9E8686;
+}
 
 .ul3{
     display: flex;
